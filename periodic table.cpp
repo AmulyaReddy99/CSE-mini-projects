@@ -66,6 +66,16 @@ int main(){
 		}
 		cout<<"\n";
 	}
+	cout<<"Enter element: (eg.: Li) "; string el; cin>>el;
+	ifstream fp;
+	fp.open("prop.txt");
+	while(getline(fp,s)){
+		if(s==el) break;
+	}
+	while(getline(fp,s)) {
+		if(s=="-") break;
+		cout<<s;
+	}
 	//show elements in group #
 	// cout<<"Enter the group number whose elements to be listed: \n";
 	// cin>>n;
