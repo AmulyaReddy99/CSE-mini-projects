@@ -1,0 +1,29 @@
+What is your choice?
+1. Sagar sir
+2. Venkanna sir
+3. Rajesh sir
+4. Surfraj sir
+
+How long did Sagar sir teach?
+1. 1 year
+2. 2 years
+3. 6 months
+4. 1.5 years
+
+How long did Rajesh sir teach?
+1. 1 year
+2. 2 years
+3. 3 years
+4. 1.5 years
+
+Do you feel proud of the new album Harry?
+1. Yes, I'm glad to have the beautiful band with me
+2. No, It didnt fetch me kinda happiness, so I've stopped writing more songs
+3. Yes, But I miss my friends
+4. Yes, I've given a chance to explore myself
+
+Who is the best dancer?
+1. Zayn Malik
+2. Harry Styles
+3. Naill horan
+4. Liam Payne

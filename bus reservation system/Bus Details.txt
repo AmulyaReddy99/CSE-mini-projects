@@ -1,0 +1,172 @@
+A B 20 .
+A C 55 .
+B C 60 .
+D A 33 .
+C A 44 .
+B A 20 .
+B D 12 .
+C B 33 .
+D E 22 .
+S F 44 .
+D W 10 .
+T Y 10 .
+T B 20 .
+S W 33 .
+W Q 12 .
+T A 130 .
+Z X 12 .
+Z U 120 .
+A D 08 .
+X I 15 .
+X B 25 .
+D F 20 .
+H I 05 .
+
+EOB
+ABOUT
+-----------------------------------------------------------
+WHY BOOK WITH US
+-----------------------------------------------------------
+MAXIMUM CHOICE
+	- We give you the widest number of travel options
+	  across thousands of routes.
+SUPERIOR CUSTOMER SERVICE
+	- We put our experience and relationships to good 
+	  use and are available to solve your travel issues.
+LOWEST PRICES
+	- We always give you the lowest price with the 
+	  best partner offers.
+UNMATCHED BENEFITS
+	- We take care of your travel beyond ticketing by 
+	  providing you with innovative and unique benefits.
+
+-----------------------------------------------------------
+ONLINE BUS TICKET BOOKING VS OFFLINE BUS TICKET BOOKING
+-----------------------------------------------------------
+
+ONLINE
+† Hassle-free bus booking from anywhere & anytime
+† Wide choice of bus seats, bus types & operators.
+† Great offers and cashbacks on booking tickets
+† Unique benefit for women seat selection
+† 24/7 Friendly Customer Care assistance 
+
+OFFLINE
+ø Hassle of reaching bus counter & waiting in long queues
+ø Not much choice suiting your preference
+ø No discounts
+ø No unique benefit for women
+ø No Friendly assistance
+
+EOB
+TOPOP
+--------------
+TOP OPERATORS
+--------------
+SRS Travels
+Evacay Bus
+Kallada Travels
+KPN Travels
+Orange Travels
+Parveen Travels
+Rajdhani Express
+VRL Travels
+Chartered Bus
+Bengal Tiger
+SRM Travels
+Infant Jesus Travels
+JBT Travels
+Shatabdi Travels
+Eagle Travels
+Kanker Roadways
+Komitla Travels
+Sri Krishna Travels
+Humsafar Travels
+Mahasagar Travels
+Raj Express
+Sharma Travels
+Shrinath Travels
+Universal Travels
+Verma Travels
+Gujarat Travels
+Madurai Radha Travels
+Patel Travels
+Paulo Travels
+Royal Travels
+Amarnath Travels
+Vaibhav Travels
+Ganesh Travels
+Jabbar Travels
+Jain Travels
+Manish Travels
+Pradhan Travels
+YBM Travels
+Hebron Travels
+Mahalaxmi travels
+MR Travels
+Vivegam Travels
+VST Travels
+Jakhar Travels
+Kaleswari Travels
+Mahendra Travels
+Neeta Travels
+Yamani Travels
+Arthi Travels
+
+EOB
+SERVICES
+-----------------------------------------------------------------
+redBus offers impeccables travels services connecting Indian cities together, top routes are :
+-----------------------------------------------------------------
+Bangalore To Hyderabad Bus 
+Delhi To Manali Bus 
+Mumbai To Goa Bus 
+Pune To Goa Bus 
+Bangalore To Chennai Bus 
+Delhi To Jaipur Bus 
+Bangalore To Goa Bus 
+Pune To Mumbai Bus 
+Bangalore To Tirupathi Bus 
+Delhi To Shimla Bus 
+Chennai To Tirupathi Bus
+
+--------------------------------------------------------------------------
+A few of the many bus operators that boosts up the redBus inventory are :
+--------------------------------------------------------------------------
+SRS Travels 
+VRL Travels 
+KPN Travels 
+Neeta Travels 
+Komitla SRM Travels 
+Parveen Travels Patel Travels 
+Kallada Travels 
+
+-----------------------------------------------------------------
+Some of the well-known cities where redBus is constantly catering its bus services are :
+-----------------------------------------------------------------
+Pune Bus Tickets 
+Delhi Bus Tickets 
+Kolkata Bus Tickets 
+Chennai Bus Tickets 
+Hyderabad Bus Tickets 
+Bangalore Bus Tickets 
+Mumbai Bus Tickets 
+Coorg Bus Tickets 
+Munnar Bus Tickets 
+Ooty Bus Tickets 
+Bhubaneswar Bus Tickets
+
+-------------------------------------------------------------------------------
+A few of the many RTCs bus operators that boosts up the redBus inventory are :
+-------------------------------------------------------------------------------
+MSRTC | APSRTC | HRTC | UPSRTC | RSRTC | GSRTC | OSRTC | PEPSU | JKSRTC | KTCL
+
+EOB
+CAL
+1 M,Tu,W,Th,F,Sat,===> 9:30 10:12 14:20 16:50 17:45 .
+2 M,Tu,W,Th,F,Sun,===> 8:00 6:23 13:13 14:30 16:33 17:00 20:00 21:11 22:04 .
+3 M,Tu,W,Th,F,===> 4:00 5:30 7:10 8:15 10:10 18:05 20:40 21:25 23:00 .
+4 M,Tu,W,Th,F,Sat,===> 15:00 16:10 17:07 19:40 20:20 22:10 23:15 .
+5 M,W,F,===> 5:30 9:30 16:10 17:07 19:40 .
+6 Tu,Th,Sat,===> 7:10 8:15 10:10 18:05 21:11 22:04 .
+7 Sun,===> 6:23 13:13 19:40 20:20 21:20 22:18 23:00 23:10 .
